@@ -6,7 +6,7 @@
 - 🌐 **Frontend Development**: HTML, CSS  
 - 🖥️ **Backend Development**: Java (Servlet, JSP, JDBC, Spring, Hibernate)  
 - 🗄️ **Database Management**: MySQL, PostgreSQL  
-- 💻 **Programming Languages**: Java, Python, C++, C  
+- 💻 **Programming Languages**: Java, Python,C  
 - 🔧 **Tools & Technologies**: Git, GitHub  
 
 ## 🚀 About Me:
