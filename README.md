@@ -44,3 +44,6 @@
 📫 **Let's Connect**:  
 Feel free to reach out for collaborations, questions, or just to say hi! 😊  
 📧 sonurkargaurav@gmail.com
+
+![snake gif](https://github.com/gauravsonurkar/gauravsonurkar/blob/output/github-snake-dark.svg)
+
